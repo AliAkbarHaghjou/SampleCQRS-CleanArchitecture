@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "M69NNz/GH2lchX1VapeYTbWcHPOEvi1R3Fa7QA9OV5t5ofwKBuqt5jFa1wPrY0q6Nt0FiYzUemhZghdF2Lpm4w==",
+  "success": true,
+  "projectFilePath": "F:\\Projects\\SampleCQRS-CleanArchitecture\\SampleCQRS.Application\\SampleCQRS.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Haghjou\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Haghjou\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+    "C:\\Users\\Haghjou\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Haghjou\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.1\\microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
+    "C:\\Users\\Haghjou\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Haghjou\\.nuget\\packages\\microsoft.extensions.options\\3.0.0\\microsoft.extensions.options.3.0.0.nupkg.sha512",
+    "C:\\Users\\Haghjou\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
+    "C:\\Users\\Haghjou\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
